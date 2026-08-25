@@ -10,6 +10,14 @@ Automação em **Python** que lê produtos de uma planilha Excel e realiza o cad
 * Pyperclip
 * OpenPyXL
 
+
+
+## 🎥 Demonstração
+
+[▶️ Clique aqui para assistir ao vídeo da automação rodando no meu PC](https://youtu.be/xkW28ryMXL8)
+
+
+
 ## ⚙️ Como executar
 
 **É necessário ter Python instalado no computador e instalar todas as bibliotecas utilizadas no projeto.**
